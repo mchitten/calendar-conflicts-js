@@ -1,0 +1,10 @@
+{
+  "name": "mixu_minimal",
+  "description": "Minimal router and client",
+  "version": "0.0.1",
+  "devDependencies": {
+    "requirejs":"2.0",
+    "mocha":"1.8",
+    "chai":"1.5"
+  }
+}
